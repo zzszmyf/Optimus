@@ -37,4 +37,4 @@ kombu==4.6.1
 pika==0.12.0
 packaging==19.0
 ordered-set==3.1.1
-deepdiff==4.0.6
+deepdiff==4.0.7
